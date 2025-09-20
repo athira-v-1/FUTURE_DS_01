@@ -17,7 +17,7 @@ This project presents an interactive Power BI dashboard built on the Superstore 
 - East and West regions contribute the largest share of sales.
 
   **Tools & Skills Used**
-Power BI - Dashboard design & interactive visuals.
-Power Query - Data cleaning and transformation.
-DAX - Calculated measures for KPIs and trends.
-Data Visualization & Business Storytelling-Turning raw data into insights.
+- Power BI - Dashboard design & interactive visuals.
+- Power Query - Data cleaning and transformation.
+- DAX - Calculated measures for KPIs and trends.
+- Data Visualization & Business Storytelling-Turning raw data into insights.
